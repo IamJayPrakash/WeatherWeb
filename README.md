@@ -1,8 +1,11 @@
 # WeatherWeb
 This Project is part of my web development intern Journey at Octanet.
+ This project allowed me to apply my skills in HTML, CSS, and JavaScript while exploring various APIs to fetch real-time weather data.
+The WeatherWeb app is designed to provide you with up-to-date weather information for any location around the globe. With a clean and intuitive user interface, it offers a seamless experience for users to check the current weather conditions, temperature, humidity, and even a five-day forecast.
+
 
 ![image](https://github.com/IamJayPrakash/WeatherWeb/assets/97893456/7e1462d1-b43c-4805-b3a3-c502bbc086db)
-image](https://github.com/IamJayPrakash/WeatherWeb/assets/97893456/1104e8c9-72d4-4b08-a935-42fbcae38285)
+![image](https://github.com/IamJayPrakash/WeatherWeb/assets/97893456/1104e8c9-72d4-4b08-a935-42fbcae38285)
 ![image](https://github.com/IamJayPrakash/WeatherWeb/assets/97893456/d67b09de-d36f-44b0-8ec1-25e6d411097f)
 ![image](https://github.com/IamJayPrakash/WeatherWeb/assets/97893456/118b3b2b-111b-4649-b112-f8ac20b73309)
 ![image](https://github.com/IamJayPrakash/WeatherWeb/assets/97893456/97b60c19-1458-46f8-9d76-1b35a37d7c93)
