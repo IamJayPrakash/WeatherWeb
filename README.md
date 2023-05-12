@@ -9,3 +9,9 @@ This Project is part of my web development intern Journey at Octanet.
 ![image](https://github.com/IamJayPrakash/WeatherWeb/assets/97893456/32e03592-bdd9-4950-9c82-a7b37d1b30b2)
 ![image](https://github.com/IamJayPrakash/WeatherWeb/assets/97893456/785f0ba7-1c6d-4a86-b7f5-d51716aab908)
 ![image](https://github.com/IamJayPrakash/WeatherWeb/assets/97893456/1b23e7ff-c65c-4a66-a6df-4e355fdad9df)
+
+
+//API KEY 
+if the website is not fetching the data it means the api key is expired..
+generate api key by making account on: https://www.weatherapi.com/
+Note : API key expires in few days..
