@@ -97,7 +97,13 @@ h3 {
     background: #fff !important;
     color: #000;
 }
-
+.made-by
+{
+    font-size: 1em;
+    text-align: center;
+    font-weight: thin;
+    font-family: "sacremanto";
+}
 /* .panel ul {
     padding: 0 0 1em;
     margin: 2em 0;
